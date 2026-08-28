@@ -1,1 +1,7 @@
-The Campaign
+---
+layout: page
+title: The Campaign
+permalink: /about/
+---
+
+Blerch.
