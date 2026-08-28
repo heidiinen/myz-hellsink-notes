@@ -1,9 +1,6 @@
 theme: minima
 minima:
   skin: dark
-#
 title: Hell Sink - A Mutant: Year Zero campaign
-header_pages:
-- about.md
-- map.md
-- events.md
+nav_pages:
+  - about.md
