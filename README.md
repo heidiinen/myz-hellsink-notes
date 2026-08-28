@@ -1,5 +1,3 @@
-# Hell Sink - A Mutant: Year Zero campaign
-
 The Red Plague hits a world already on the brink of collapse. Climate change, global economic crisis, increasing conflict between superpowers. When the pandemic comes, the last thin veneer of stability crumbles. One billion people die in the first year. Panic reigns and solidarity between nations is nonexistent. Wars break out over the last, dwindling resources of the world.
 
 For the first time since 1945 nuclear weapons are used in armed conflict.
