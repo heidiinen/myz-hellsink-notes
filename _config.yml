@@ -14,24 +14,12 @@ title: "Hell Sink - A Mutant: Year Zero campaign"
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.
 
-
-# Build settings
-# --------------
-#
-# If you wish to use the gem-version of Minima with or without a Gemfile, use
-#   the following setting:
 theme: minima
-#
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
 #   It is best that you lock to a particular commit and update if upstream changes
 #   do not affect your site adversely.
 # remote_theme: jekyll/minima@d4d779a
-#
-# Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
@@ -47,22 +35,16 @@ theme: minima
 #   `minima` key.*
 #
 minima:
-#   Minima skin selection. Available skins are:
-#     * classic            Default, light color scheme.
-#     * dark               Dark variant of the classic skin.
-#     * auto               Adaptive skin based on the classic and dark skins.
-#     * solarized-light    Light variant of solarized color scheme.
-#     * solarized-dark     Dark variant of solarized color scheme.
-#     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: dark
-#
-#   Specific pages for site navigation.
-#     If you wish to link only specific pages in the site-navigation, use this
-#     and list the `path` property (as represented via Liquid) of the pages in
-#     the order they should be rendered.
   nav_pages:
     - about.md
     - map.md
+  skin: dark
+#     If you wish to link only specific pages in the site-navigation, use this
+#     and list the `path` property (as represented via Liquid) of the pages in
+#     the order they should be rendered.
+#  nav_pages:
+#    - about.md
+#    - map.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
@@ -90,4 +72,4 @@ minima:
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-#   hide_site_feed_link: false
+  hide_site_feed_link: true
