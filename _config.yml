@@ -39,6 +39,7 @@ minima:
   nav_pages:
     - about.md
     - map.md
+    - ark.md
 #  skin: dark
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
