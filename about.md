@@ -18,3 +18,6 @@ After gathering equipment, exchanging looks with people who know they may not re
 
 Session 1, 20.1.2026
 It's the beginning of spring. Oravo, Runcid and Hannibal leave the Ark with the purpose of returning Hydrabelle's water. Their secondary goal: find the teams that departed before and either rescue or support them if possible. They travelled through the Zone and set up camp in a large, abandoned pipe in sector J4.
+
+Session 2, 8.2.2026
+The final team reached the Pure Plant. Along the way, two automatons were encountered and barely defeated. One of the automatons grabbed Hannibal, but was taken down by Runcid. The Plant is located on an island a 100 meters from shore, but it could be reached on foot. Unknown people, who started throwing rocks at the team, was encountered. Diplomacy was unsuccessful, so Hannibal flew to the roof and killed one. Rest of the people escaped.
