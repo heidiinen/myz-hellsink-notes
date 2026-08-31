@@ -4,8 +4,9 @@ title: Hydrabelle's Club
 permalink: /ark/
 ---
 
-**The Ark**\
-The Mutants have always lived inside the ruins known as Hydrabelle's Club. The name is incomplete because part of the original stone sign fell down long ago. Nobody knows what the missing part said.
+The Mutants have always lived inside the ruins known as Hydrabelle's Club. Life is crowded, with around 200 Mutants living together in one structure. Most relationships are blunt and practical, shaped by the knowledge that food, time and patience are limited. The Zone outside the Ark is understood through stories and warnings rather than maps or measurements.
+
+The ruins constantly remind People of a more advanced past they don't understand. Old objects are treated with a mixture of reverence and fear. Almost everything is done through manual labor - Mutants use ropes, beams, tools, and teamwork. Simple tools are understood through observation, while anything complex is considered sacred, forbidden, or broken. Belief fills the gaps in the People's understanding. The People disagree about what Hydrabelle wants, but rituals and superstitions have developed around her.
 
 **An Old Temple**\
 The Mutants believe the site was once a vast temple built by the powerful people of the Old World. They worshipped Hydrabelle, the First Mutant, who they believed would save them from the wrath of the Mutants.
