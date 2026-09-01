@@ -16,6 +16,13 @@ The Council has acted. After days of negotiation and power struggles, they agree
 
 After gathering equipment, exchanging looks with people who know they may not return, and listening to rumours spread faster than facts, the final team is ready to depart as ordered by the council. The final team would either reinforce the first team, replace them if they have failed, or finish what they could not.
 
+The final team:
+Oravo - Fixer - Four Armed & Human Toad
+Gelb - Gearhead - Rot Eater & Sonar
+Wire - Dog Handler - Human Plant
+Quill - Chronicler - Insectoid & Phasing
+Runcid - Stalker - Corpse Eater & Reptilian
+
 **Session 1, 20.1.2026**\
 It's the beginning of spring. Oravo, Runcid and Hannibal leave the Ark with the purpose of returning Hydrabelle's water. Their secondary goal: find the teams that departed before and either rescue or support them if possible. They travelled through the Zone and set up camp in a large, abandoned pipe in sector J4.
 
