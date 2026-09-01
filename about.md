@@ -21,3 +21,9 @@ It's the beginning of spring. Oravo, Runcid and Hannibal leave the Ark with the 
 
 **Session 2, 8.2.2026**\
 The final team reached the Pure Plant. Along the way, two automatons were encountered and barely defeated. One of the automatons grabbed Hannibal, but was taken down by Runcid. The Plant is located on an island a 100 meters from shore, but it could be reached on foot. Unknown people, who started throwing rocks at the team, was encountered. Diplomacy was unsuccessful, so Hannibal flew to the roof and killed one. Rest of the people escaped.
+
+**Session 3**\
+The final team started their push to the biggest building on the Plant premises, suspected to be the Control Room. There are multiple entrances to the building, a 40-meters-high tower, and multiple windows. Presence of hostilities was unknown, so the plant door was reached by diversion. The door was opened by force. Inside, the team encountered Neema, Enforcer and Grit from previous teams. After a rest, the team picked up equipment from the tower that turned out to have a bird's nest on top. There were also two bodies. A Zone Ghoul was encountered lurking in the shadows; attempt to communicate with it was unsuccessful and it retreated to a nearby building.
+
+**Session 4**\
+The team considered going after the zone ghoul but decided to get clean water and go back to the Control Room instead. A room full of pipes, apparently for water, was found. The team investigated the pipes and ended up coming out in sector H6, next to the Ark. The team and Council concluded that the Ark could survive by fetching water directly from the plant by using the pipe.

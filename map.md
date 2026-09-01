@@ -11,6 +11,11 @@ There's a stinging smell. Something is absorbed to the ground, spoiling it.
 There's a partially collapsed apartment house with loads of scrap around.
 A compass, an artifact, was found here.
 
+**H6**
+- Bloodthirsty dogs\
+- Entrance to pipes leading to Pure Plant
+In this sector there's a 50-meter hole that has green liquid on the bottom.
+
 **I4, suspect high rot**
 - Water\
 A flowing stream from multiple sources runs through this sector. Most of the sector is dense forest.
