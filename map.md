@@ -16,7 +16,7 @@ A compass, an artifact, was found here.
 - Entrance to pipes leading to Pure Plant
 In this sector there's a 50-meter hole that has green liquid on the bottom.
 
-**H7**
+**H7**\
 Some kind of tall mast and wooden sheds. Nothing too interesting.
 
 **H8**
