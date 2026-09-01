@@ -23,14 +23,20 @@ Wire - Dog Handler - Human Plant
 Quill - Chronicler - Insectoid & Phasing
 Runcid - Stalker - Corpse Eater & Reptilian
 
-**Session 1, 20.1.2026**\
+**Session 1, 20.1.2026: Departure**\
 It's the beginning of spring. Oravo, Runcid and Hannibal leave the Ark with the purpose of returning Hydrabelle's water. Their secondary goal: find the teams that departed before and either rescue or support them if possible. They travelled through the Zone and set up camp in a large, abandoned pipe in sector J4.
 
-**Session 2, 8.2.2026**\
+**Session 2, 8.2.2026: Zone Ghoul encounter at Pure Plant**\
 The final team reached the Pure Plant. Along the way, two automatons were encountered and barely defeated. One of the automatons grabbed Hannibal, but was taken down by Runcid. The Plant is located on an island a 100 meters from shore, but it could be reached on foot. Unknown people, who started throwing rocks at the team, was encountered. Diplomacy was unsuccessful, so Hannibal flew to the roof and killed one. Rest of the people escaped.
 
-**Session 3**\
+**Session 3: Exploring the Pure Plant**\
 The final team started their push to the biggest building on the Plant premises, suspected to be the Control Room. There are multiple entrances to the building, a 40-meters-high tower, and multiple windows. Presence of hostilities was unknown, so the plant door was reached by diversion. The door was opened by force. Inside, the team encountered Neema, Enforcer and Grit from previous teams. After a rest, the team picked up equipment from the tower that turned out to have a bird's nest on top. There were also two bodies. A Zone Ghoul was encountered lurking in the shadows; attempt to communicate with it was unsuccessful and it retreated to a nearby building.
 
-**Session 4**\
+**Session 4: Back to the Ark**\
 The team considered going after the zone ghoul but decided to get clean water and go back to the Control Room instead. A room full of pipes, apparently for water, was found. The team investigated the pipes and ended up coming out in sector H6, next to the Ark. The team and Council concluded that the Ark could survive by fetching water directly from the plant by using the pipe.
+
+**Session 5, 14.4.2026: Developing the Ark**\
+Assembly meeting held after the arrival of surviving expedition team members. Three projects for the Ark were started: reinforcing walls and barriers, fetch water from the plant, and pottery. A hunting party was sent out, led by Terabite. Steelgrip had a proposal for Runcid: instead of going out on the Zone, stay in the Ark to coordinate teams. Runcid rejected the offer. Oravo helped Skally avoid slavery or, worst case, execution. Quill found a book and decided to keep it, trying to help the alleged book thief but failing. Gleb punched an artifact seller and walked away. Wire confronted Bugg for trying to kill dogs and sent him and the dogs away.
+
+**Session 6, 27.4.2026: Back to the Zone**\
+Zone hounds between the Ark and the pipe towards Pure Plant were cleared. There were no casualties, but wounds were major. Water fetching project was completed and Gelb made some torches. Runcid did some smuggling for a friend. Pottery project was forwarded. Another hunting party was also sent out. The team left the Ark again, aiming to reach the place where, according to stories, important decisions are made. The team encountered Terreck's corpse.
