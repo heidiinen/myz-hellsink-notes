@@ -16,14 +16,37 @@ A compass, an artifact, was found here.
 - Entrance to pipes leading to Pure Plant
 In this sector there's a 50-meter hole that has green liquid on the bottom.
 
+**H7**
+Some kind of tall mast and wooden sheds. Nothing too interesting.
+
+**H8**
+- Terreck's corpse\
+Oppressing heat, with basically everything dead in the area.
+
+**H10**
+- Dome sighting\
+Ruins, twisted metal and concrete. Single reinforced entrance set in the concrete, half hidden by debris. A huge dome was spotted.
+
+**H11**
+- Zone ghouls, 3-7\
+Open area with some ruins. Colorful plastic sheets around the area.
+
+**I3, low rot**
+- Unknown people live underground\
+The ground is hard, crunchy and uneven, appearing like black glass. There's a crack on the ground, through which some kind of settlement could be accessed. Decided to avoid confrontation for now.
+
 **I4, suspect high rot**
 - Water\
 A flowing stream from multiple sources runs through this sector. Most of the sector is dense forest.
 There's a high, skeleton-like structure in the east.
 
-**I3, low rot**
-- Unknown people live underground\
-The ground is hard, crunchy and uneven, appearing like black glass. There's a crack on the ground, through which some kind of settlement could be accessed. Decided to avoid confrontation for now.
+**I9, scrapped clean**
+- Automobile
+Some hard scrap was found, but the sector is now clean.
+
+**I10, unexplored**
+- Zone rats
+Dangerous sector, did not explore.
 
 **J3, heavy rot**
 - 6 portions of clean water\
@@ -38,6 +61,12 @@ There's an abandoned pipe that seemed good for camping overnight.
 - Pure Plant\
 The Pure Plant is situated on a small island, about 100 meters away from the shore. The plant can be reached by foot.
 A group of zone ghouls was encountered. One was killed, others escaped.
+
+**J9, high rot**
+Pipes running around the area, and lots of thrash.
+
+**J10, high rot**
+Similar to I9. Clusters of buildings with walls ripped down, and a building that's had its door ripped off.
 
 **K4**
 - Two defeated automatons\
