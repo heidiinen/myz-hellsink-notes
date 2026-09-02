@@ -61,7 +61,7 @@ Some hard scrap was found, but the sector is now clean.
 Dangerous sector, did not explore.
 
 **J3, heavy rot, unexplored**
-- 6 portions of clean water\
+- 6 portions of clean water
 
 Rot was found, so no exploring was done.
 
