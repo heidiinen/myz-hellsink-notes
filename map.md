@@ -4,7 +4,7 @@ title: The Map
 permalink: /map/
 ---
 
-![The Map](Hell_Sink_GM.jpg)
+![The Map](Hell_Sink_visited.jpg)
 
 **H4**
 - Cars, one that looks like it works
