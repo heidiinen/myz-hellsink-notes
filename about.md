@@ -105,6 +105,6 @@ The team went to the Council. Gelb gave the shining objects to the Ark and they 
 
 Gelb looked for his friend and found him in a small side room. The friend had got stuck to something - he is a human magnet, and he was trying to get something out of a hole or a pipe. Runcid worked on the pottery project and managed to finish it. Ms. Seppo from the Brokers took a job as a potter. Quill worked on a project of her own and searched for her friend.
 
-Oravo went to inspect Terreck's fate and talked to Terabite. Terreck was one of the first stalkers and like a hero to Terabite, and someone - a name with "Green" in it - had an issue with Terreck.
+Oravo went to inspect Terreck's fate and talked to Terabite. Terreck was one of the first stalkers and like a hero to Terabite, and Redgrin had an issue with Terreck.
 
 At the communal soup kitchen, Bugg brought a dead mutt. Sava, a Collective member who works at the kitchen, questioned the decision. Runcid went to ask Bugg about the origins of the mutt. A huge argument followed, until Bullhorn came and silenced it with his annoyingly powerful voice.
