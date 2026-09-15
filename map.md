@@ -15,7 +15,7 @@ There's a partially collapsed apartment house with loads of scrap around.
 A compass, an artifact, was found here.
 
 **H6**
-- Bloodthirsty dogs
+- Bloodthirsty dogs, dealt with in a later session
 - Entrance to pipes leading to Pure Plant
 
 In this sector there's a 50-meter hole that has green liquid on the bottom.
