@@ -2,6 +2,18 @@
 # ------------------
 #
 title: "Hell Sink - A Mutant: Year Zero campaign"
+
+# Keep repo-only files out of the build, so they cannot become pages.
+exclude:
+  - CLAUDE.md
+
+# Top bar. GitHub Pages builds with Minima 2.5, which reads `header_pages`.
+#   The `minima.nav_pages` key below does the same for Minima 3 and later.
+header_pages:
+  - about.md
+  - map.md
+  - ark.md
+  - factions.md
 #
 # author:
 #   name: GitHub User
