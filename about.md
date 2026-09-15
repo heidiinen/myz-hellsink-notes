@@ -23,7 +23,7 @@ Wire - Dog Handler - Human Plant
 Quill - Chronicler - Insectoid & Phasing
 Runcid - Stalker - Corpse Eater & Reptilian
 
-**Session 1, 20.1.2026: Departure**\
+**Session 1, 20.1.2026: Departure**
 
 It was the beginning of spring. Oravo, Runcid and Hannibal left the Ark with the purpose of returning Hydrabella's water. Their secondary goals were to find the teams that departed before and either rescue or support them if possible, and to return all artifacts of the ancients to the vault. The team headed out west.
 
@@ -37,21 +37,21 @@ Sector J3 was heavy with rot. Runcid found the rot immediately, so the team fled
 
 In sector J4 the ground was covered in fractured concrete, with low, partially collapsed buildings, and the air had a sour smell that stuck to the throat. A high, narrow, skeleton-like structure leaned slightly there, attached to the ground with metal chains and with broken things at the top. Runcid climbed the structure to scout the area. The team looked for shelter in an almost intact house, but set up camp in a large, abandoned pipe.
 
-**Session 2, 8.2.2026: Zone Ghoul encounter at Pure Plant**\
+**Session 2, 8.2.2026: Zone Ghoul encounter at Pure Plant**
 
 The team scouted the Pure Plant from a distance, and saw something between them and the plant where metal moved by itself. In sector K4 the houses were in ruins, with broken walls that you could see through, and every place was full of trash and scrap. The houses were fully identical to each other, but the level of destruction varied. Two automatons with an unknown mission were also in the sector. The team tried to sneak past them, but the automatons noticed them. Hannibal charged, the automatons turned out to be aggressive, and one of them grabbed Hannibal by the head and lifted him into the air. Oravo defended bravely, and Runcid sniped Hannibal's tormentor successfully. Both automatons were destroyed. Their weapon was some kind of drilling tool, their chest had some kind of storage, and the metal was very strong. The remains were stashed in a hiding place so that they could be studied later.
 
 The Pure Plant in sector J5 was located on a small island about 100 meters from the shore, and the area seemed clean of rot. The team crossed to the island by wading. Oravo deduced that there must be a control room somewhere. Unknown people started throwing rocks at the team from above. Diplomacy was unsuccessful, so Hannibal flew to the roof and killed one. The rest of the people escaped. The team planned to continue towards the tower.
 
-**Session 3: Exploring the Pure Plant**\
+**Session 3: Exploring the Pure Plant**
 
 The team started their push to the biggest building on the Plant premises, suspected to be the Control Room. The building had multiple entrances, multiple windows and a 40-meters-high tower. Presence of hostilities was unknown, so the plant door was reached by diversion. The door was opened by force. Inside, the team encountered Neema, Lambda and Grit from previous teams. After a rest, the team picked up equipment from the tower that turned out to have a bird's nest on top. There were also two bodies. A Zone Ghoul was encountered lurking in the shadows; attempt to communicate with it was unsuccessful and it retreated to a nearby building.
 
-**Session 4: Back to the Ark**\
+**Session 4: Back to the Ark**
 
 The team considered going after the zone ghoul but decided to get clean water and go back to the Control Room instead. A room full of pipes, apparently for water, was found. The team went in the pipes and decided to find out where they went. Journey through the pipes was uneventful. The team ended up coming out in sector H6, next to the Ark. The team and Council concluded that the Ark could survive by fetching water directly from the plant by using the pipe.
 
-**Session 5, 14.4.2026: Developing the Ark**\
+**Session 5, 14.4.2026: Developing the Ark**
 
 An assembly meeting was held after the arrival of the surviving expedition team members. An expedition to clear the zone hounds was agreed, and three projects for the Ark were started: reinforcing walls and barriers, fetching water from the plant, and pottery. A commandment about a foraging party was passed. A hunting party was sent out, led by Terabite the corpse-eater, who gathered volunteers to join him on the mission.
 
@@ -63,7 +63,7 @@ Quill found a book - an artifact - and hid it, then tried to help Button the all
 
 Fuse beat up Bugg badly, because Bugg had tried to kill the dogs. Wire went to face Bugg in the Collective space, where Bugg was making a speech that blamed the dogs for all his injuries. Wire confronted him in the middle of his rant and sent Bugg and the dog away.
 
-**Session 6, 27.4.2026: Back to the Zone**\
+**Session 6, 27.4.2026: Back to the Zone**
 
 Oravo made great deals at great cost. Zone hounds between the Ark and the pipe towards Pure Plant were cleared. There were no casualties, but wounds were major. Water fetching project was completed and Gelb made some torches. Runcid did some smuggling for a friend. Several projects were forwarded, at least pottery. Work on a Vermin Control policy was started, and another hunting party was also sent out. The team left the Ark again, aiming to reach the place where, according to stories, important decisions are made.
 
@@ -73,7 +73,7 @@ Sector H7 had some kind of tall mast and wooden sheds, nothing too interesting, 
 
 In sector H8 the heat was oppressing and basically everything in the area was dead. Oravo spotted a reflection, which led the team to Terreck's corpse, where 6 pieces of reflecting material were found. Terreck's skeleton had a single hole in the skull, which raised suspicions.
 
-**Session 7, 11.8.2026: Rot, rot everywhere**\
+**Session 7, 11.8.2026: Rot, rot everywhere**
 
 The team arrived in sector I9, where Runcid's ancient device kept them on a safe path. They survived their first night in the Zone, although visitors about half a meter long and 20 centimeters tall roamed around the camp. Gelb and Quill found a motor-driven carriage and agreed on a name for it: automobile. Gelb also collected some hard scrap, and the sector was scrapped clean.
 
@@ -83,7 +83,7 @@ In sector I10 there were signs and tracks. Runcid was sure that Zone Rats live i
 
 Sector J9 had pipes running around the area and lots of trash. Rot hit the team again, and Runcid threw up a second time. The team settled for the night in the safe zone, where Gelb could not sleep - it must be the ghouls.
 
-**Session 8, 26.8.2026: The Dome**\
+**Session 8, 26.8.2026: The Dome**
 
 Coming from sector I9, the team found no threats in sector H10. The sector was filled with ruins and a broken field of twisted metal and concrete. A huge, incomprehensible dome was spotted. Gelb called it Fact or E, or something equally incomprehensible as the thing itself. A single reinforced entrance was set in the concrete, half hidden by debris. The team cleared the rubble in front of the door, and Quill inspired Oravo to help Gelb force the door open. The door got stuck, but a small opening was made, through which the team could squeeze in.
 
@@ -94,3 +94,17 @@ Gelb lost it completely while looking for scrap. On the way back, the team found
 After a great debate, the team pushed towards sector H11, an open area with ruins and colorful plastic sheets. Ripped plastic clothes were signs of zone ghouls, and Runcid confirmed at least 3 to 7 of them. The area could be a trap, so the team decided to fall back to sector I9 to rest. Quill sang a lullaby for Gelb, and it was super effective.
 
 From there, the team decided to fall back to the Ark.
+
+**Session 9, 1.9.2026: The Ark**
+
+The team came back to the Ark, where the Collective had set up a communal kitchen. The foragers had seen humanoids watching them in the west - first one, and later three of them.
+
+The foragers and the cook disagreed about pieces of wood that the foragers had marked. The foragers thought the markings tell which of the plants they had picked are safe to eat, and they wanted the plants cooked. The cook did not agree, and dismissed the markings. Oravo tried to inquire about them. It was rather pointless: the markings had internal coherence, but did not necessarily explain anything to anyone else. Wire tried to argue that the dogs are useful, but that did not work either.
+
+The team went to the Council. Gelb gave the shining objects to the Ark and they were happily accepted. The team was thanked for their services and sent away. Wire went to meet another mutant and gave them a horn, to bother Bullhorn with.
+
+Gelb looked for his friend and found him in a small side room. The friend had got stuck to something - he is a human magnet, and he was trying to get something out of a hole or a pipe. Runcid worked on the pottery project and managed to finish it. Ms. Seppo from the Brokers took a job as a potter. Quill worked on a project of her own and searched for her friend.
+
+Oravo went to inspect Terreck's fate and talked to Terabite. Terreck was one of the first stalkers and like a hero to Terabite, and someone - a name with "Green" in it - had an issue with Terreck.
+
+At the communal soup kitchen, Bugg brought a dead mutt. Sava, a Collective member who works at the kitchen, questioned the decision. Runcid went to ask Bugg about the origins of the mutt. A huge argument followed, until Bullhorn came and silenced it with his annoyingly powerful voice.
