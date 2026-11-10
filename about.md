@@ -108,3 +108,6 @@ Gelb looked for his friend and found him in a small side room. The friend had go
 Oravo went to inspect Terreck's fate and talked to Terabite. Terreck was one of the first stalkers and like a hero to Terabite, and Redgrin had an issue with Terreck.
 
 At the communal soup kitchen, Bugg brought a dead mutt. Sava, a Collective member who works at the kitchen, questioned the decision. Runcid went to ask Bugg about the origins of the mutt. A huge argument followed, until Bullhorn came and silenced it with his annoyingly powerful voice.
+
+**Session 10, 15.9.2026: The Ark**
+
