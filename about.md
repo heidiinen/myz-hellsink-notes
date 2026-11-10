@@ -97,13 +97,17 @@ From there, the team decided to fall back to the Ark.
 
 **Session 9, 1.9.2026: The Ark**
 
-The team came back to the Ark, where the Collective had set up a communal kitchen. The foragers had seen humanoids watching them in the west - first one, and later three of them.
+The team came back to the Ark, and an assembly meeting was held. Two people had died of hunger. The hunting party was working. The Altar project was finished and gave the Ark myth and meaning. The water expedition worked, but water still went through sneaky parties, and the Pure Plant itself was not fixed yet.
+
+The commandment to turn in all artifacts to the Chroniclers' Dawn Vault had no effect: nothing had been turned in. With the communal grub grab, the Collective shared food every day. Morale improved, but food became more expensive. The foraging party got food, but the food was irradiated, so people were fed but got sick. With the vermin control policy, rats were hunted and eaten, and its bonuses were in effect. The monster hunt in sector H6 was successful, and a new skill became available for Stalkers. A new expedition was sent to fetch the car from sector H4. Two new projects were started, a weaponsmith (Tuomas) and a compost heap (Heidi), and a new commandment, Valiance, was passed.
+
+The Collective had set up a communal kitchen. The foragers had seen humanoids watching them in the west - first one, and later three of them.
 
 The foragers and the cook disagreed about pieces of wood that the foragers had marked. The foragers thought the markings tell which of the plants they had picked are safe to eat, and they wanted the plants cooked. The cook did not agree, and dismissed the markings. Oravo tried to inquire about them. It was rather pointless: the markings had internal coherence, but did not necessarily explain anything to anyone else. Wire tried to argue that the dogs are useful, but that did not work either.
 
 The team went to the Council. Gelb gave the shining objects to the Ark and they were happily accepted. The team was thanked for their services and sent away. Wire went to meet another mutant and gave them a horn, to bother Bullhorn with.
 
-Gelb looked for his friend and found him in a small side room. The friend had got stuck to something - he is a human magnet, and he was trying to get something out of a hole or a pipe. Runcid worked on the pottery project and managed to finish it. Ms. Seppo from the Brokers took a job as a potter. Quill worked on a project of her own and searched for her friend.
+Gelb looked for his friend and found him in a small side room. The friend had got stuck to something - he is a human magnet, and he was trying to get something out of a hole or a pipe. Heidi worked on the pottery project and managed to finish it. Ms. Seppo from the Brokers took a job as a potter. Zuz worked on a project. Quill searched for her friend.
 
 Oravo went to inspect Terreck's fate and talked to Terabite. Terreck was one of the first stalkers and like a hero to Terabite, and Redgrin had an issue with Terreck.
 
@@ -111,3 +115,4 @@ At the communal soup kitchen, Bugg brought a dead mutt. Sava, a Collective membe
 
 **Session 10, 15.9.2026: The Ark**
 
+The session was shorter because of connectivity problems, but some Ark actions were done. Adam and Nick worked on the weaponsmith project. Oravo tried to get information about the followers of The Follower, a new wannabe faction started by someone called The Follower, with some success. The rest of the session was used for individual scheming.

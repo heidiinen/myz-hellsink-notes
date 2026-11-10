@@ -31,3 +31,10 @@ Box style, measured from the boxes on the map:
 - The box is inset a few pixels from the grid lines. Take the exact position from a box that is already on the map, because the boxes are hand-placed.
 
 Save with JPEG quality 92 and 4:4:4 chroma, to keep the grid lines sharp.
+
+## Campaign notes
+
+When you copy entries from plaintext-notes to about.md:
+
+- Projects are worked on by players, not characters. Keep the player name for project work (for example "Weaponsmith (Tuomas)").
+- For all other actions, change player names to character names.
